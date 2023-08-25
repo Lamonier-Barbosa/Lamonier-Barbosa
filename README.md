@@ -5,4 +5,4 @@
 
 
 
-https://github-readme-stats.vercel.app/api/top-langs/?username={Lamonier Barbosa}&theme={theme_dark}
+https://github-readme-stats.vercel.app/api/top-langs/?username={Lamonier-Barbosa}&theme={theme_dark}
