@@ -1,4 +1,4 @@
-🚀<h1>Lamonier Barbosa Santos</h1>
+<h1>Lamonier Barbosa Santos</h1>
 
 
 
