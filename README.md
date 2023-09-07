@@ -4,7 +4,7 @@ Meu nome é **Lamonier Barbosa** sou desenvolvedor **Back-End** apaixonado por d
 <br/>
 <br/>
 
-![Lamonier GitHub stats](https://github-readme-stats.vercel.app/api?username=Lamonier-Barbosa&show_icons=true&theme=radical)
+![Lamonier's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Lamonier-Barbosa&show_icons=true&theme=radical)
 
 ## 🚀👨🏻‍💻Hard Skills:
 <br/>
