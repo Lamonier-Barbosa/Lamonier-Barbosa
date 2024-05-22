@@ -8,7 +8,7 @@ buscando aprender e aplicar meus conhecimentos em diversas áreas.
 <br/>
 <br/>
 
-[![Lamonier's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Lamonier-Barbosa&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lamonier-Barbosa&layout=donut&bg_color=292929&border_color=34AD00&title_color=34AD00)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🚀👨🏻‍💻Hard Skills:
 <br/>
