@@ -2,7 +2,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=34AD00&center=falso&vCenter=falso&repeat=verdadeiro&width=435&lines=Ol%C3%A1%2C+meu+nome+%C3%A9+%3D%3E+Lamonier;Seja+bem+vindo+ao+meu+Perfil!+%F0%9F%98%8A)](https://git.io/typing-svg)
 
 ## Sobre:
-Sou desenvolvedor **Back-End** apaixonado por diversos tipos de conhecimentos, especialmente tecnologia.
+Sou desenvolvedor **FullStack** apaixonado por diversos tipos de conhecimentos, especialmente tecnologia.
 Adoro resolver problemas e tenho facilidade de aprender coisas novas, estou sempre em movimento,
 buscando aprender e aplicar meus conhecimentos em diversas áreas.
 <br/>
