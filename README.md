@@ -13,7 +13,7 @@ buscando aprender e aplicar meus conhecimentos em diversas áreas.
 ## 🚀👨🏻‍💻Hard Skills:
 <br/>
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,postgres,git,nodejs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,postgres,git,nodejs,wordpress)](https://skillicons.dev)
 <br/>
 <br/>
 ## Entre em contato📲
