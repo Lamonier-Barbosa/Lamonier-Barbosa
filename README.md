@@ -13,7 +13,7 @@ buscando aprender e aplicar meus conhecimentos em diversas áreas.
 ## 🚀👨🏻‍💻Hard Skills:
 <br/>
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,php,postgres,git,nodejs,wordpress)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,php,postgres,git,nodejs,wordpress,java)](https://skillicons.dev)
 <br/>
 <br/>
 ## Esse é meu Portfólio 🚀
