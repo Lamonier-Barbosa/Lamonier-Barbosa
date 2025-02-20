@@ -16,8 +16,6 @@ buscando aprender e aplicar meus conhecimentos em diversas áreas.
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,postgres,git,nodejs,wordpress,java)](https://skillicons.dev)
 <br/>
 <br/>
-## Esse é meu Portfólio 🚀
-[PORTFÓLIO](https://lamonier-portfolio.vercel.app/) ⬅️
 
 ## Entre em contato📲
 
